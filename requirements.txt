@@ -1,0 +1,5 @@
+bloom_filter2==2.0.0
+datasketch==1.6.5
+matplotlib==3.10.1
+numpy==2.2.4
+pandas==2.2.3
