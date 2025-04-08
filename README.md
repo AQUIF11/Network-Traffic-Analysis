@@ -11,7 +11,7 @@ The toolkit is designed to help analysts and security engineers **quickly proces
 
 ## Prerequisities
 
-Before running any of the scripts in this framework, ensure you have the necessary dependencies installed. Install then using the following command:
+Before running any of the scripts in this framework, ensure you have the necessary dependencies installed. Install them using the following command:
 
 ```bash
 pip install -r requirements.txt
